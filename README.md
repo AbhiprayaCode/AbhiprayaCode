@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hello there!<br>I'm a IT and Cybersecurity enthusiast dedicated to safeguarding the digital realm. I thrive on exploring new technologies and continuously enhancing my skills to stay ahead in the ever-evolving tech landscape.<br><br>🔭 I’m currently working on secure web application personal project.<br><br>🌱 I’m currently learning a knowledge to become an Security Analyst pararel with deeply more understanding about Software Engineering.<br><br>💬 Ask me about software engineering, incident response, or cyber threat intelligence.
+# 👋 Hello there!
+<br>I'm a IT and Cybersecurity enthusiast dedicated to safeguarding the digital realm. I thrive on exploring new technologies and continuously enhancing my skills to stay ahead in the ever-evolving tech landscape.<br><br>🔭 I’m currently working on secure web application personal project.<br><br>🌱 I’m currently learning a knowledge to become an Security Analyst pararel with deeply more understanding about Software Engineering.<br><br>💬 Ask me about software engineering, incident response, or cyber threat intelligence.
 
 
 ## 🌐 Socials:
