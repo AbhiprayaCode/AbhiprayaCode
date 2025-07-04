@@ -91,61 +91,20 @@ I'm an IT and Cybersecurity enthusiast dedicated to safeguarding the digital rea
     </p>
 </details>
 
-### 🚀 Featured Projects
-
-<details>
-<summary><strong>Project 1: Secure API for [Your App Name]</strong></summary>
-<br>
-<p>
-    A personal project focused on building a secure backend API using ExpressJS and TypeScript. The main focus is on implementing authentication (JWT), authorization, rate limiting, and input sanitization to prevent common vulnerabilities like those in the OWASP Top 10.
-</p>
-<p>
-    <strong>Technologies Used:</strong><br>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-</p>
-<p>
-    <a href="[LINK_TO_YOUR_PROJECT_REPOSITORY]">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
-    </a>
-    <a href="[LINK_TO_LIVE_DEMO_IF_AVAILABLE]">
-        <img src="https://img.shields.io/badge/Live_Demo-0078D4?style=for-the-badge&logo=azure&logoColor=white" alt="Live Demo">
-    </a>
-</p>
-</details>
-
-<details>
-<summary><strong>Project 2: [Your Other Project Name]</strong></summary>
-<br>
-<p>
-    A brief description of your second project. Explain the problem you solved and your role.
-</p>
-<p>
-    <strong>Technologies Used:</strong><br>
-    </p>
-<p>
-    <a href="[LINK_TO_YOUR_PROJECT_REPOSITORY]">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
-    </a>
-</p>
-</details>
-
 ### 📜 Certifications & Training
 
-- **[Certification Name, e.g., CompTIA Security+]**
-  - *Issued by: [Issuing Body, e.g., CompTIA]*
-  - *Credential: [Link to your Credly badge or certificate]*
-
-- **[Course Name, e.g., Introduction to Cyber Security]**
-  - *Platform: [Platform Name, e.g., Cisco Networking Academy]*
-  - *Certificate of Completion: [Link to certificate if available]*
-
-- **[Another Certification Name]**
-  - *Issued by: [Issuing Body]*
-  - *Credential: [Link to your Credly badge or certificate]*
+<details>
+  <summary><strong>Introduction to Cybersecurity</strong></summary>
+  <br>
+  <p><strong>Issued by:</strong> CISCO Networking Academy</p>
+  <p><strong>Credential:</strong> [Link to your Credly badge or certificate]*</p>
+</details>
+<details>
+  <summary><strong>Introduction to Information Security</strong></summary>
+  <br>
+  <p><strong>Issued by:</strong> Cyber Academy Indonesia</p>
+  <p><strong>Credential:</strong> [Link to your Credly badge or certificate]*</p>
+</details>
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -163,10 +122,4 @@ I'm an IT and Cybersecurity enthusiast dedicated to safeguarding the digital rea
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote">
-</p>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=AbhiprayaCode&icon=2&color=0" alt="Visitor Count">
-  </a>
 </p>
