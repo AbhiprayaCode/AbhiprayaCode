@@ -54,7 +54,7 @@ I'm an IT and Cybersecurity enthusiast dedicated to safeguarding the digital rea
 <details>
 <summary><strong>💻 Software Development Tech Stack</strong></summary>
 <br>
-    <h4>Languages:</h4>
+    <h4>Programming Languages:</h4>
     <p align="left">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -76,7 +76,7 @@ I'm an IT and Cybersecurity enthusiast dedicated to safeguarding the digital rea
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     </p>
-    <h4>Databases & Cloud:</h4>
+    <h4>Databases:</h4>
     <p align="left">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
@@ -97,13 +97,13 @@ I'm an IT and Cybersecurity enthusiast dedicated to safeguarding the digital rea
   <summary><strong>Introduction to Cybersecurity</strong></summary>
   <br>
   <p><strong>Issued by:</strong> CISCO Networking Academy</p>
-  <p><strong>Credential:</strong> [Link to your Credly badge or certificate]*</p>
+  <p><strong>Credential:</strong> https://drive.google.com/file/d/1Tqp3120bKu7T-PRCh0S_pAZ9FtUSsDLd/view</p>
 </details>
 <details>
   <summary><strong>Introduction to Information Security</strong></summary>
   <br>
   <p><strong>Issued by:</strong> Cyber Academy Indonesia</p>
-  <p><strong>Credential:</strong> [Link to your Credly badge or certificate]*</p>
+  <p><strong>Credential:</strong> https://drive.google.com/file/d/1ivwQHRkTlMsBX84gI94YFVZjxdtsa2Z9/view</p>
 </details>
 
 ### 📊 GitHub Stats
