@@ -117,7 +117,7 @@ I'm an IT and Cybersecurity enthusiast dedicated to safeguarding the digital rea
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhiprayaCode&theme=dark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhiprayaCode&theme=light&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </p>
 
 <p align="center">
