@@ -11,15 +11,15 @@
   </a>
 </p>
 
-Saya adalah seorang peminat IT dan Keamanan Siber yang berdedikasi untuk melindungi dunia digital. Saya senang menjelajahi teknologi baru dan terus meningkatkan keterampilan untuk tetap terdepan dalam lanskap teknologi yang terus berkembang.
+I'm an IT and Cybersecurity enthusiast dedicated to safeguarding the digital realm. I thrive on exploring new technologies and continuously enhancing my skills to stay ahead in the ever-evolving tech landscape.
 
-- 🔭 Saat ini saya sedang mengerjakan proyek pribadi **Aplikasi API Aman dengan ExpressJS**.
-- 🌱 Saya sedang belajar untuk menjadi **Analis Keamanan** sambil memperdalam pemahaman tentang **Rekayasa Perangkat Lunak**.
-- 💬 Tanya saya tentang `Software Engineering`, `Incident Response`, atau `Cyber Threat Intelligence`.
+- 🔭 I’m currently working on a personal project: a **secure API application with ExpressJS**.
+- 🌱 I’m currently learning to become a **Security Analyst** while also deepening my understanding of **Software Engineering**.
+- 💬 Ask me about `Software Engineering`, `Incident Response`, or `Cyber Threat Intelligence`.
 
 ---
 
-### ⚡ Keahlian & Teknologi
+### ⚡ Skills & Technology
 
 <details>
 <summary><strong>🛡️ Cybersecurity & Pentesting Tools</strong></summary>
@@ -79,7 +79,7 @@ Saya adalah seorang peminat IT dan Keamanan Siber yang berdedikasi untuk melindu
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     </p>
-    <h4>Database & Cloud:</h4>
+    <h4>Databases & Cloud:</h4>
     <p align="left">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
@@ -95,7 +95,63 @@ Saya adalah seorang peminat IT dan Keamanan Siber yang berdedikasi untuk melindu
     </p>
 </details>
 
-### 📊 Statistik GitHub
+### 🚀 Featured Projects
+
+<details>
+<summary><strong>Project 1: Secure API for [Your App Name]</strong></summary>
+<br>
+<p>
+    A personal project focused on building a secure backend API using ExpressJS and TypeScript. The main focus is on implementing authentication (JWT), authorization, rate limiting, and input sanitization to prevent common vulnerabilities like those in the OWASP Top 10.
+</p>
+<p>
+    <strong>Technologies Used:</strong><br>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+</p>
+<p>
+    <a href="[LINK_TO_YOUR_PROJECT_REPOSITORY]">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
+    </a>
+    <a href="[LINK_TO_LIVE_DEMO_IF_AVAILABLE]">
+        <img src="https://img.shields.io/badge/Live_Demo-0078D4?style=for-the-badge&logo=azure&logoColor=white" alt="Live Demo">
+    </a>
+</p>
+</details>
+
+<details>
+<summary><strong>Project 2: [Your Other Project Name]</strong></summary>
+<br>
+<p>
+    A brief description of your second project. Explain the problem you solved and your role.
+</p>
+<p>
+    <strong>Technologies Used:</strong><br>
+    </p>
+<p>
+    <a href="[LINK_TO_YOUR_PROJECT_REPOSITORY]">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
+    </a>
+</p>
+</details>
+
+### 📜 Certifications & Training
+
+- **[Certification Name, e.g., CompTIA Security+]**
+  - *Issued by: [Issuing Body, e.g., CompTIA]*
+  - *Credential: [Link to your Credly badge or certificate]*
+
+- **[Course Name, e.g., Introduction to Cyber Security]**
+  - *Platform: [Platform Name, e.g., Cisco Networking Academy]*
+  - *Certificate of Completion: [Link to certificate if available]*
+
+- **[Another Certification Name]**
+  - *Issued by: [Issuing Body]*
+  - *Credential: [Link to your Credly badge or certificate]*
+
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbhiprayaCode&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
   <br>
@@ -104,7 +160,7 @@ Saya adalah seorang peminat IT dan Keamanan Siber yang berdedikasi untuk melindu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiprayaCode&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
-### 🏆 Tropi GitHub
+### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AbhiprayaCode&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </p>
