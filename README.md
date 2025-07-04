@@ -14,7 +14,7 @@
 I'm an IT and Cybersecurity enthusiast dedicated to safeguarding the digital realm. I thrive on exploring new technologies and continuously enhancing my skills to stay ahead in the ever-evolving tech landscape.
 
 - 🔭 I’m currently working on a personal project: a **secure API application with ExpressJS**.
-- 🌱 I’m currently learning to become a **Security Analyst** while also deepening my understanding of **Software Engineering**.
+- 🌱 I’m currently learning to become a **Cybersecurity Engineer** while also deepening my understanding of **Software Engineering**.
 - 💬 Ask me about `Software Engineering`, `Incident Response`, or `Cyber Threat Intelligence`.
 
 ---
@@ -71,6 +71,7 @@ I'm an IT and Cybersecurity enthusiast dedicated to safeguarding the digital rea
     <p align="left">
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design">
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
         <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
