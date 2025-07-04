@@ -108,16 +108,16 @@ I'm an IT and Cybersecurity enthusiast dedicated to safeguarding the digital rea
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhiprayaCode&theme=light&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhiprayaCode&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
   <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AbhiprayaCode&theme=light&hide_border=true" alt="GitHub Streak">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AbhiprayaCode&theme=dark&hide_border=true" alt="GitHub Streak">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiprayaCode&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiprayaCode&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhiprayaCode&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhiprayaCode&theme=light&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </p>
 
 <p align="center">
